@@ -1,2 +1,2 @@
 # game_practice
-C# refresher for data structures class
+Java refresher for data structures class
